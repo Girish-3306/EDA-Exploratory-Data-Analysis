@@ -15,7 +15,7 @@ Is performed to understand interactions between different fields in the dataset 
 
 Data Preprocessing = Data cleansing -> Data Scrubing -> Data processing 
 ------------------------------------------
-Important steps to remember while doing this project.
+<h3>Important steps to remember while doing this project.</h3>
 
 Step 1:-
 Copy the complete data set into temp(temporary) variable
@@ -51,11 +51,11 @@ Multivariate analysis
 
 ---------------------------------------------
 
-Main purpose of Exploratory Data Analysis (EDA) is to tell the story and getting insight out of it.
+<h2>Main purpose of Exploratory Data Analysis (EDA) is to tell the story and getting insight out of it.</h2>
 
 ---------------------------------------------
 
-Some of the most important commands used in the project are as follows:-
+<h3>Some of the most important commands used in the project are as follows:-</h3>
 
 * info()- to get a concise summary of the dataframe.
 * head()- to get the first n(5) rows.
